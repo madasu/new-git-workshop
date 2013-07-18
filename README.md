@@ -7,4 +7,4 @@ git add
 git commit
 git push
 
-git windows UI
+git bisect
